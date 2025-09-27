@@ -1,0 +1,14 @@
+[book]
+authors = ["Edwin Solares"]
+language = "en"
+multilingual = false
+src = "src"
+title = "UCSD CSE151A Summer 2025"
+
+[output.html.playground]
+runnable = false
+
+[preprocessor.pagetoc]
+[output.html]
+additional-css = ["theme/pagetoc.css"]
+additional-js  = ["theme/pagetoc.js"]
