@@ -19,9 +19,9 @@ This web page serves as the main source of announcements and resources for the c
 
 ## Basics
 
-- Lecture: [TBA](#), Monday through Thursday 8:00a-9:20a 
-- Discussion: [TBA](#), Friday 9:00a-10:50a
-- “Skill Assessments” Exams: Flexible scheduling in weeks 2, 3, 4 and 5
+- Lecture: [TBA](#), Saturday 9:00am-2:50pm 
+- Discussion: [TBA](#), Saturday 3:00pm-5:00pm
+- “Skill Assessments” Exams: Flexible scheduling on Cavnas
   - [Prairie Test Link](https://us.prairietest.com/) - signing up and taking the skill assessments
   - [Prairie Learn Link](https://us.prairielearn.com/pl/login) - practice skill assessments
 - Final Exam (used for making up test credit): Flexible scheduling at the end of the quarter on the end of week 5. Maximum of 1 Make up for Skill Assessments.
