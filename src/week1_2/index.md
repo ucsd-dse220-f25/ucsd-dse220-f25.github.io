@@ -7,6 +7,8 @@
     - [Slides PDF Syllabus](https://drive.google.com/file/d/19A5Oj6up_eBP9J03tYMRVHHXkoFPjyNt/view?usp=sharing)
     - [Slides PDF Introduction](https://drive.google.com/file/d/1-g6bU4IeLYHEH4Z6R6jvZgK98IB2Eczc/view?usp=sharing)
     - [Slides PDF Regression](https://drive.google.com/file/d/1hC2iSwo0aIJL_ZiXqz8znma3-8lchAU2/view?usp=sharing)
+    - [Slides PDF OLS Optimization](https://drive.google.com/file/d/1gYndPqXLyRWZAZvwUwAbbM3SZ5YWJvVQ/view?usp=sharing)
+    - [Slides PDF Polynomial Regression](https://drive.google.com/file/d/1gXQj8ULQ3xKSUc7YJq8tYouoSXjaNEwR/view?usp=sharing)
   - Week 1 Notebooks
     - [Notebook Tutorial Notebook](https://colab.research.google.com/drive/1NGS-A5nUNNaTo2hq-mfcIty_BHXZkbPJ?usp=sharing)
     - [CA Housing Notebook](https://colab.research.google.com/drive/1jgNKGCGIkKaBXAAfRxOAhNSO4b4B7Bo2?usp=sharing)
