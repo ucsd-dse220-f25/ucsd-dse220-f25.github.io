@@ -2,7 +2,7 @@
 
 ## Week 1 Lecture Material
   - Required Coding Material
-    - [Intro to Python bootcamp](https://canvas.ucsd.edu/courses/66898/pages/python-resources)
+    - [Intro to Python bootcamp](https://canvas.ucsd.edu/courses/70601/pages/python-resources)
   - Lecture Slides 
     - [Slides PDF Syllabus](https://drive.google.com/file/d/19A5Oj6up_eBP9J03tYMRVHHXkoFPjyNt/view?usp=sharing)
     - [Slides PDF Introduction](https://drive.google.com/file/d/1-g6bU4IeLYHEH4Z6R6jvZgK98IB2Eczc/view?usp=sharing)
