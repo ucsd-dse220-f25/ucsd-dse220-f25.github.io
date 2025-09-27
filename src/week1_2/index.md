@@ -23,6 +23,6 @@
 <!--  - [Slides](https://drive.google.com/file/d/1yj0Mmw6Itprd1fITTnw8ZDTfJbfRyHVa/view?usp=sharing)
   - [Notebook](https://colab.research.google.com/drive/1tZnVj343chyHFzCrZu2TrxMVE44cishj)
 ## Week 2 Discussion
-  - [Slides](https://drive.google.com/file/d/10yn9E3U7tFW0lkSjsVUrzHqMxEq-TG_f/view?usp=sharing)
-  - [Notebook](https://colab.research.google.com/drive/1UIZZS_0Lb9NcdwoX-HTydPfCq52OCfFH?usp=sharing)
+  - [Slides](https://drive.google.com/file/d/110EqJbE3um4p5u7Z2Zyu58r8aJIsbAjn/view?usp=sharing)
+  - [Notebook](https://colab.research.google.com/drive/1Rzf5FHJtQqq60iK3D7Av4s7FisxISNeA?usp=sharing)
 
