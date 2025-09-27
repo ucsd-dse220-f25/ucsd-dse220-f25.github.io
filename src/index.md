@@ -1,6 +1,6 @@
 ![ML Drawing<img src="./ML_drawing_light.png" width="576" height="575" />](./ML_drawing_light.png)
 
-# UCSD CSE151A Summer Session II 2025 Syllabus and Logistics
+# UCSD DSE 220 Fall 2025 Syllabus and Logistics
 
 - [Edwin Solares](http://edwinsolares.com) (Instructor)
 
@@ -19,8 +19,8 @@ This web page serves as the main source of announcements and resources for the c
 
 ## Basics
 
-- Lecture: [Center Hall 113](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/center%20hall), Monday through Thursday 8:00a-9:20a 
-- Discussion: [Center Hall 113](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/center%20hall), Friday 9:00a-10:50a
+- Lecture: [TBA](#), Monday through Thursday 8:00a-9:20a 
+- Discussion: [TBA](#), Friday 9:00a-10:50a
 - “Skill Assessments” Exams: Flexible scheduling in weeks 2, 3, 4 and 5
   - [Prairie Test Link](https://us.prairietest.com/) - signing up and taking the skill assessments
   - [Prairie Learn Link](https://us.prairielearn.com/pl/login) - practice skill assessments
@@ -161,10 +161,10 @@ The weighted breakdown of each category is as follows:
 | --- | --- |
 Lecture Participation | 7%
 Discussion Participation | 3%
-Quizzes | 10%
+Quizzes | 15%
 Homeworks | 15%
 Group Project | 30%
-Skill Assessments | 35%
+Skill Assessments | 30%
 
 ## Policy
 
