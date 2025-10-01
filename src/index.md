@@ -45,7 +45,7 @@ This web page serves as the main source of announcements and resources for the c
   - [Kaggle Datasets](https://www.kaggle.com/datasets)
 
 ## Office Hours Calendar
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;mode=WEEK&amp;src=c_aa96475faffcfb251ca3f869090c058c1e21601ad231d11e60140a04d567f182%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;mode=WEEK&amp;src=c_0aafaff4228ef0082e394329b82f3c46068d4b3bc9545f4f06dda4d612d55cbf%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Schedule
 
