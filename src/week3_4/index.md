@@ -1,12 +1,11 @@
-# Week 2 - Non-Linear Regression, OLS, and Log Loss
+# Week 2 - Non-Linear Regression, Gradient Descent and Log Loss
 
 ## Week 2 Lecture Material
   - Lecture Slides
-    - [Slides PDF Ordinary Least Squares Optimization Method](https://drive.google.com/file/d/1-kXcUa1Njd6b_jiwQRTLq9TFu3W2BEgZ/view?usp=drive_link)
-    - [Slides PDF Gradient Descent](https://drive.google.com/file/d/1y0o77GRZnSAdMbg0xBwzQo3AZIHfEU3P/view?usp=sharing)
-    - [Slides PDF Data Preprocessing](https://drive.google.com/file/d/1mktRyk48fBDQqRgxZDc1anNVtEYk0l1w/view?usp=sharing)
-    - [Slides PDF Polynomial](https://drive.google.com/file/d/1t7hbJuLbEbUfMyuxcqpi37EmXTpLjHPp/view?usp=sharing)
-    - [Slides PDF Logistic Regression](https://drive.google.com/file/d/1s0Kb3426hG_l4rW9fH8EpwjS0rmxISK8/view?usp=sharing)
+    - [Slides PDF Data Preprocessing](https://drive.google.com/file/d/1XOyul6ePvmkpfcaOXEkUQPh_8mNiFNu8/view?usp=sharing)
+    - [Slides PDF Gradient Descent](https://drive.google.com/file/d/1-ouAeGWCd7z0SGdcn81Idl1ehAZ_OXiD/view?usp=sharing)
+    - [Slides PDF Logistic Regression](https://drive.google.com/file/d/1jsdjPC29uQeAg6EElJgp12l4leH44z-l/view?usp=sharing)
+    - [Classification Loss Functions](https://drive.google.com/file/d/1toz1kRuiSD5VQOVqnF7LRhbYyleE3ta0/view?usp=sharing)
     - [Slides PDF HPC/SDSC](https://drive.google.com/file/d/1e9juxbo3AclzjgGEpueCu_QBYProOhAi/view?usp=sharing)
   - Notebooks
     - [Gradient Descent Notebook](https://colab.research.google.com/drive/13h1k8yXHqp7kPX6ljmayG-HFip6H_lxY?usp=sharing)
