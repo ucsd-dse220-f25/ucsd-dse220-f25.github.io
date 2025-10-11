@@ -23,5 +23,5 @@
   - [Slides](https://drive.google.com/file/d/1DszFLeg_IthjnUSKIbsrkHRZelnw7K2A/view?usp=drive_link)
   - [Notebook](https://colab.research.google.com/drive/142p_WNTQm6IGoN7tlLybKJQ31o_d4uUV?usp=sharing)
 ## Week 4 Discussion
-- [Slides](https://drive.google.com/file/d/1esQW-RlZfJUmBuOjjLJdc2fI-tHpx5F2/view?usp=sharing)
-- [Notebook](https://colab.research.google.com/drive/1sCFLbaxDvmTFEhPrEU0SBEd_Q0YjYeYx?usp=sharing)
+- [Slides](https://drive.google.com/file/d/1PCCzjuo_hMz1KCLko-YuUXiU9eJAt-D8/view?usp=drive_link)
+- [Notebook](https://drive.google.com/file/d/1nod0X8q_rC2EuvcIMeh0h6C1O4ZhIAOC/view?usp=drive_link)
