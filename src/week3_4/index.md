@@ -16,9 +16,9 @@
   - Worksheets
     - [Blank Participation Worksheet](https://drive.google.com/file/d/1AixFWcweyiHu_42doUkDTWcicPvB7EgQ/view?usp=sharing)
   
-## Week 2 Discussion TBA
-  - [Slides](https://drive.google.com/file/d/1N7SkJkjJihVpf-OrZwus51e5lRoQUX-F/view?usp=sharing)
-  - [Notebook](https://drive.google.com/file/d/1xpJK75G_bjNRTz8jp34nt4h760pTbbSq/view?usp=drive_link)
+## Week 2 Discussion
+  - [Slides](https://drive.google.com/file/d/1PCCzjuo_hMz1KCLko-YuUXiU9eJAt-D8/view?usp=drive_link))
+  - [Notebook](https://drive.google.com/file/d/1nod0X8q_rC2EuvcIMeh0h6C1O4ZhIAOC/view?usp=drive_link)
 <!--
   - [Slides](https://drive.google.com/file/d/1DszFLeg_IthjnUSKIbsrkHRZelnw7K2A/view?usp=drive_link)
   - [Notebook](https://colab.research.google.com/drive/142p_WNTQm6IGoN7tlLybKJQ31o_d4uUV?usp=sharing)
