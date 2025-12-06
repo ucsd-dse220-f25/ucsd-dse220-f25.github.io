@@ -10,5 +10,5 @@
     - [Slides PDF Temporal Difference Learning](https://drive.google.com/file/d/1aiexaztYtYEfHpzI6i-KjvxIu06PMcLh/view?usp=drive_link)
     - [Slides PDF Q-Learning](https://drive.google.com/file/d/1szh-fkn_9rk_LSDaL5-RvLtNAN7x1r3e/view?usp=drive_link)
 - Notebooks
-    - [TBA](#)
+    - [RL Notebook](https://github.com/ucsd-cse150b-f25/notebooks/blob/main/reinforcement_learning.ipynb)
 ## No Discussion!
