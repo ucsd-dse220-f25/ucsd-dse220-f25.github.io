@@ -125,7 +125,7 @@ This is also the only late policy for homework. Unsubmitted reports are initiall
 Several times during the quarter, you will complete a _skill assessment_
 -- this course's version of exams. You'll be given a jupyter notebook environment to practice on in advance. The practice problems will not be similar to the first skill assessment and will only be there to demonstrate the structure and environment.
 
-On each you will have an autograder with 4 or more questions and 40 minutes to complete each assessment. The skill assessments will start on week 2 and continue for weeks 3, 4 and 5. You will be able to choose a scheduled time each week on the PrairieTest website. On the day of your assessment you must bring a valid picture ID. Only one paper notesheet front and back will be allowed.
+On each you will have an autograder with 4 or more questions and 40 minutes to complete each assessment. The skill assessments will start on week 2 and continue for weeks 3, 4 and 5. You will be able to choose a scheduled time each week on the PrairieTest website. On the day of your assessment you must bring a valid picture ID. ~~Only one paper notesheet front and back will be allowed.~~ Notesheets are no longer allowed at the TTC.
 
 Skill assessments will take place in AP&M, **unless you have an AFA letter**. You must schedule a time to take your exams in advance. To do this, visit prairietest.com and log in with your UCSD-associated Google account. From there, you will be able to see the exams available for reservation.
 
